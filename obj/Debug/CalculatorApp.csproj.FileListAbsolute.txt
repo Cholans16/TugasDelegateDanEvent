@@ -1,0 +1,12 @@
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.AssemblyReference.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.SuggestedBindingRedirects.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.form_induk.resources
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.FormEntryData.resources
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.Properties.Resources.resources
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.GenerateResource.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.exe
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\obj\Debug\TugasCalculator.pdb
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\bin\Debug\TugasCalculator.exe.config
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\bin\Debug\TugasCalculator.exe
+E:\KULIAH\TUGAS\Pemrog lanjut\Pertemuan 8\Tugas\TugasCalculator\TugasCalculator\bin\Debug\TugasCalculator.pdb
